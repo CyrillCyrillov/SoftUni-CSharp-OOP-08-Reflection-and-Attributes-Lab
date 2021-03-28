@@ -1,0 +1,13 @@
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.exe
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.deps.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.runtimeconfig.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.runtimeconfig.dev.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\bin\Debug\netcoreapp3.1\Mission Private Impossible.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.csprojAssemblyReference.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.AssemblyInfoInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.AssemblyInfo.cs
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Mission Private Impossible\obj\Debug\netcoreapp3.1\Mission Private Impossible.genruntimeconfig.cache
