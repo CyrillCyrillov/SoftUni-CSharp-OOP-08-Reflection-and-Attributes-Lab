@@ -1,0 +1,13 @@
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.exe
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.deps.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.dev.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.csprojAssemblyReference.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfoInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfo.cs
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.genruntimeconfig.cache

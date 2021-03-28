@@ -1,0 +1,13 @@
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.exe
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.deps.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.runtimeconfig.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.runtimeconfig.dev.json
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.csprojAssemblyReference.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.AssemblyInfo.cs
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.dll
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.pdb
+C:\Users\Kiril\OOP_CSharp\08_CSharp-OOP-Reflection-and-Attributes-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.genruntimeconfig.cache
